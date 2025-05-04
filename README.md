@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm <span style="color:#00BFFF">Luchchu</span> 👋</h1>
+<h1 align="center">👋 Hi, I'm Luchchu</h1>
 <h3 align="center"><strong>Ludshathan Nadanesan</strong></h3>
 
 
