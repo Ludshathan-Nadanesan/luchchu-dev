@@ -38,8 +38,8 @@
 
 ## 🔗 Connect With Me
 
-- 🌐 LinkedIn: [coming soon]
-- 📧 Email: luchchu.dev@gmail.com
+- 🌐 LinkedIn: www.linkedin.com/in/ludshathan-nadanesan
+- 📧 Email: luchchuvijay@gmail.com
 - 💼 Portfolio: Coming Soon!
 
 ---
