@@ -1,10 +1,12 @@
 <h1 align="center">👋 Hi, I'm Luchchu</h1>
+<h3 align="center"><strong>Ludshathan Nadanesan</strong></h3>
+
 
 <p align="center">
-🎓 1st Year Software Engineering Student <br>
+🎓 Software Engineering Student <br>
 💻 Learning Full Stack Web Dev + Flutter App Dev <br>
 🌍 Based in Sri Lanka <br>
-📫 Reach me at: luchchu.dev@gmail.com
+📫 Reach me at: luchchuvijay@gmail.com
 </p>
 
 ---
